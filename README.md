@@ -14,4 +14,5 @@ These two files are too big to displahy on Browser directly therefore please run
 
 ## How to run Juypter
 Install Juypter Notebook and run the following command in the directory of this GitHub
-  jupyter notebook
+    
+    jupyter notebook
