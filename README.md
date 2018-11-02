@@ -1,4 +1,4 @@
-# CS10-601PytrochTutorial
+# 10-601-PytrochTutorial
 Recitation notebook for Pytorch for Deep Learning 
 
 ## Dependencies
