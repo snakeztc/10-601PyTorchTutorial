@@ -7,8 +7,8 @@ Recitation notebook for Pytorch for Deep Learning
 - Numpy
 
 ## Notebooks
-Recitation-Nov-2.ipynb is for Python 2
-Recitation-Nov-2.py3.ipynb is for Python 3
+- Recitation-Nov-2.ipynb is for Python 2
+- Recitation-Nov-2-py3.ipynb is for Python 3
 
 These two files are too big to displahy on Browser directly therefore please run Juypter locally to view.
 
